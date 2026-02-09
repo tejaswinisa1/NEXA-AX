@@ -444,16 +444,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## Project Stats
-
-![GitHub stars](https://img.shields.io/github/stars/tejaswinisa1/NEXA-AX?style=social)
-![GitHub forks](https://img.shields.io/github/forks/tejaswinisa1/NEXA-AX?style=social)
-![GitHub issues](https://img.shields.io/github/issues/tejaswinisa1/NEXA-AX)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/tejaswinisa1/NEXA-AX)
-![GitHub last commit](https://img.shields.io/github/last-commit/tejaswinisa1/NEXA-AX)
-
----
-
 <div align="center">
 
 **Made with care for India's Healthcare Future**
