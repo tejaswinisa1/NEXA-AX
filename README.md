@@ -16,7 +16,7 @@
 
 ---
 
-## 🌟 Overview
+## Overview
 
 **NEXA-AX** (Tadashi AI) is an enterprise-grade, AI-powered health companion platform designed to revolutionize healthcare accessibility across India. Inspired by Disney's Baymax, this comprehensive health management system combines cutting-edge artificial intelligence with culturally-aware healthcare guidance to provide personalized, accessible, and secure health services to millions of users.
 
@@ -30,21 +30,21 @@ Deliver personalized, accessible, and culturally-aware healthcare guidance throu
 
 ---
 
-## ✨ Key Features
+## Key Features
 
-### 🤖 Advanced AI Health Assistant
+### Advanced AI Health Assistant
 - **Multi-Language Support**: Conversational AI in 13 Indian languages (Hindi, Bengali, Telugu, Marathi, Tamil, Urdu, Gujarati, Kannada, Malayalam, Punjabi, Odia, Assamese, English)
 - **Intelligent Symptom Analysis**: AI-powered symptom checking with risk assessment and differential diagnosis
 - **Personalized Recommendations**: Tailored health advice based on user profile, medical history, and cultural preferences
 - **Continuous Learning**: Adaptive AI that improves responses based on user feedback and medical knowledge updates
 
-### 🎙️ Voice-Enabled Interaction
+### Voice-Enabled Interaction
 - **Speech-to-Text**: Real-time voice recognition in multiple Indian languages
 - **Text-to-Speech**: Natural voice synthesis with Indian accent options
 - **Hands-Free Navigation**: Voice commands for accessibility and convenience
 - **Voice Biometrics**: Secure voice-based authentication
 
-### 🏥 Comprehensive Health Management Suite
+### Comprehensive Health Management Suite
 
 #### 1. **Reminders & Routine Management**
 - Smart medication reminders with dosage tracking
@@ -108,7 +108,7 @@ Deliver personalized, accessible, and culturally-aware healthcare guidance throu
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 ### Technology Stack
 
@@ -168,7 +168,7 @@ Deliver personalized, accessible, and culturally-aware healthcare guidance throu
 
 ---
 
-## 📚 Documentation
+## Documentation
 
 Comprehensive documentation is available in the repository:
 
@@ -184,7 +184,7 @@ Comprehensive documentation is available in the repository:
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -264,7 +264,7 @@ For production deployment on AWS, refer to the [Deployment Guide](DEPLOYMENT_GUI
 
 ---
 
-## 🧪 Testing
+## Testing
 
 ### Run Tests
 ```bash
@@ -298,7 +298,7 @@ npm run test:performance
 
 ---
 
-## 🔒 Security
+## Security
 
 Security is our top priority. NEXA-AX implements multiple layers of security:
 
@@ -315,7 +315,7 @@ If you discover a security vulnerability, please email security@tadashi.ai. Do n
 
 ---
 
-## 📊 Performance Metrics
+## Performance Metrics
 
 ### Target Performance
 - **Response Time**: <2 seconds for standard queries
@@ -332,30 +332,30 @@ If you discover a security vulnerability, please email security@tadashi.ai. Do n
 
 ---
 
-## 🗺️ Roadmap
+## Roadmap
 
-### Phase 1: Core Platform (Q1 2026) ✅
+### Phase 1: Core Platform (Q1 2026) - Completed
 - [x] Infrastructure setup on AWS
 - [x] User management and authentication
 - [x] Basic AI health assistant
 - [x] Core health tracking features
 - [x] Web application deployment
 
-### Phase 2: AI Enhancement (Q2 2026) 🚧
+### Phase 2: AI Enhancement (Q2 2026) - In Progress
 - [ ] Advanced ML models for health insights
 - [ ] Multi-language support (13 Indian languages)
 - [ ] Voice processing integration
 - [ ] Real-time health monitoring
 - [ ] Mobile applications (iOS & Android)
 
-### Phase 3: Advanced Features (Q3 2026) 📋
+### Phase 3: Advanced Features (Q3 2026) - Planned
 - [ ] All 12 specialized health modules
 - [ ] Comprehensive analytics platform
 - [ ] Community and support features
 - [ ] Third-party device integrations
 - [ ] Healthcare provider portal
 
-### Phase 4: Scale & Optimize (Q4 2026) 🎯
+### Phase 4: Scale & Optimize (Q4 2026) - Planned
 - [ ] Multi-region deployment
 - [ ] Performance optimization
 - [ ] Population health insights
@@ -371,7 +371,7 @@ If you discover a security vulnerability, please email security@tadashi.ai. Do n
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions from the community! Here's how you can help:
 
@@ -398,13 +398,13 @@ Please read our [Code of Conduct](CODE_OF_CONDUCT.md) before contributing.
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 👥 Team
+## Team
 
 **NEXA-AX** is developed and maintained by a dedicated team of healthcare professionals, AI engineers, and software developers committed to improving healthcare accessibility in India.
 
@@ -417,7 +417,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📞 Contact & Support
+## Contact & Support
 
 ### Get in Touch
 - **Website**: [https://tadashi.ai](https://tadashi.ai)
@@ -433,7 +433,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Inspired by Disney's Baymax character from Big Hero 6
 - Built with Next.js and modern web technologies
@@ -444,7 +444,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📈 Project Stats
+## Project Stats
 
 ![GitHub stars](https://img.shields.io/github/stars/tejaswinisa1/NEXA-AX?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/tejaswinisa1/NEXA-AX?style=social)
@@ -456,8 +456,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**Made with ❤️ for India's Healthcare Future**
+**Made with care for India's Healthcare Future**
 
-[⬆ Back to Top](#nexa-ax-tadashi-ai-health-companion-platform)
+[Back to Top](#nexa-ax-tadashi-ai-health-companion-platform)
 
 </div>
